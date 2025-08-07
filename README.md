@@ -1,4 +1,4 @@
-# DataAnalystMinHUB2025
+# DataAnalystMindHUB2025
 ## Módulo 10 Portafolio
 Puntapié de creación de portafolio
 
